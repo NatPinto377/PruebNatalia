@@ -1,0 +1,15 @@
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\bin\Debug\net8.0\RedArbor.Application.deps.json
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\bin\Debug\net8.0\RedArbor.Application.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\bin\Debug\net8.0\RedArbor.Application.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\bin\Debug\net8.0\RedArbor.Domain.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\bin\Debug\net8.0\RedArbor.Domain.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.csproj.AssemblyReference.cache
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.AssemblyInfoInputs.cache
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.AssemblyInfo.cs
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.csproj.CoreCompileInputs.cache
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.05F4DDF1.Up2Date
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\refint\RedArbor.Application.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\ref\RedArbor.Application.dll

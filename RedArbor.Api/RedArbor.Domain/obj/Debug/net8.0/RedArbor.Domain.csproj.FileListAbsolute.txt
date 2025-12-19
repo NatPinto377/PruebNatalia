@@ -1,0 +1,11 @@
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\bin\Debug\net8.0\RedArbor.Domain.deps.json
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\bin\Debug\net8.0\RedArbor.Domain.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\bin\Debug\net8.0\RedArbor.Domain.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\RedArbor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\RedArbor.Domain.AssemblyInfoInputs.cache
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\RedArbor.Domain.AssemblyInfo.cs
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\RedArbor.Domain.csproj.CoreCompileInputs.cache
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\RedArbor.Domain.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\refint\RedArbor.Domain.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\RedArbor.Domain.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\ref\RedArbor.Domain.dll

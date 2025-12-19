@@ -1,0 +1,17 @@
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\bin\Debug\net8.0\RedArbor.Infrastructure.deps.json
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\bin\Debug\net8.0\RedArbor.Infrastructure.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\bin\Debug\net8.0\RedArbor.Infrastructure.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\bin\Debug\net8.0\RedArbor.Application.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\bin\Debug\net8.0\RedArbor.Domain.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\bin\Debug\net8.0\RedArbor.Application.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\bin\Debug\net8.0\RedArbor.Domain.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\RedArbor.Infrastructure.csproj.AssemblyReference.cache
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\RedArbor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\RedArbor.Infrastructure.AssemblyInfoInputs.cache
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\RedArbor.Infrastructure.AssemblyInfo.cs
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\RedArbor.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\RedArbor.181662FB.Up2Date
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\RedArbor.Infrastructure.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\refint\RedArbor.Infrastructure.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\RedArbor.Infrastructure.pdb
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Infrastructure\obj\Debug\net8.0\ref\RedArbor.Infrastructure.dll
