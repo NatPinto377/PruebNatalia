@@ -13,3 +13,4 @@ D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debu
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\refint\RedArbor.Application.dll
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.pdb
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\ref\RedArbor.Application.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Application\obj\Debug\net8.0\RedArbor.Application.sourcelink.json

@@ -146,3 +146,4 @@ D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Api\obj\Debug\net8.0
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Api\obj\Debug\net8.0\RedArbor.Api.pdb
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Api\obj\Debug\net8.0\RedArbor.Api.genruntimeconfig.cache
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Api\obj\Debug\net8.0\ref\RedArbor.Api.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Api\obj\Debug\net8.0\RedArbor.Api.sourcelink.json
