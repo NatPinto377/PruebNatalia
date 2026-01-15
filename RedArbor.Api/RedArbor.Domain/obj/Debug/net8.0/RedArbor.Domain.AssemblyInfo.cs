@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedArbor.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0ccd9bd6c0820b060ccf4744e9914f4d4e63656")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0890e0de908c083589bd2a5acb62fd5f044658ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedArbor.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedArbor.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -20,7 +20,7 @@ namespace RedArbor.Domain.Entities
         public string Username { get; set; } = null!;
 
         // Optional fields
-        public string? Name { get; set; }
+        public string Name { get; set; } = null!;
         public string? Telephone { get; set; }
         public string? Fax { get; set; }
 

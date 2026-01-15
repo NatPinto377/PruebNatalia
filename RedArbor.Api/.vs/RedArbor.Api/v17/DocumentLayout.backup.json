@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A312C100-7B4E-4852-8308-76A7616C6AC8}|RedArbor.Api\\RedArbor.Api.csproj|d:\\users\\hnpinto\\desktop\\pruebnatalia\\redarbor.api\\redarbor.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A312C100-7B4E-4852-8308-76A7616C6AC8}|RedArbor.Api\\RedArbor.Api.csproj|solutionrelative:redarbor.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B2FCB71-A9E2-40F5-AFD7-AF801A1C7457}|RedArbor.Infrastructure\\RedArbor.Infrastructure.csproj|d:\\users\\hnpinto\\desktop\\pruebnatalia\\redarbor.api\\redarbor.infrastructure\\repositories\\employeewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2FCB71-A9E2-40F5-AFD7-AF801A1C7457}|RedArbor.Infrastructure\\RedArbor.Infrastructure.csproj|solutionrelative:redarbor.infrastructure\\repositories\\employeewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F7D81F-DB94-4CDF-83C1-61ED40EF26A1}|RedArbor.Application\\RedArbor.Application.csproj|d:\\users\\hnpinto\\desktop\\pruebnatalia\\redarbor.api\\redarbor.application\\interfaces\\iemployeereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7D81F-DB94-4CDF-83C1-61ED40EF26A1}|RedArbor.Application\\RedArbor.Application.csproj|solutionrelative:redarbor.application\\interfaces\\iemployeereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A312C100-7B4E-4852-8308-76A7616C6AC8}|RedArbor.Api\\RedArbor.Api.csproj|d:\\users\\hnpinto\\desktop\\pruebnatalia\\redarbor.api\\redarbor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A312C100-7B4E-4852-8308-76A7616C6AC8}|RedArbor.Api\\RedArbor.Api.csproj|solutionrelative:redarbor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A312C100-7B4E-4852-8308-76A7616C6AC8}|RedArbor.Api\\RedArbor.Api.csproj|d:\\users\\hnpinto\\desktop\\pruebnatalia\\redarbor.api\\redarbor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A312C100-7B4E-4852-8308-76A7616C6AC8}|RedArbor.Api\\RedArbor.Api.csproj|solutionrelative:redarbor.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2FCB71-A9E2-40F5-AFD7-AF801A1C7457}|RedArbor.Infrastructure\\RedArbor.Infrastructure.csproj|d:\\users\\hnpinto\\desktop\\pruebnatalia\\redarbor.api\\redarbor.infrastructure\\repositories\\employeereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2FCB71-A9E2-40F5-AFD7-AF801A1C7457}|RedArbor.Infrastructure\\RedArbor.Infrastructure.csproj|solutionrelative:redarbor.infrastructure\\repositories\\employeereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2FCB71-A9E2-40F5-AFD7-AF801A1C7457}|RedArbor.Infrastructure\\RedArbor.Infrastructure.csproj|d:\\users\\hnpinto\\desktop\\pruebnatalia\\redarbor.api\\redarbor.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2FCB71-A9E2-40F5-AFD7-AF801A1C7457}|RedArbor.Infrastructure\\RedArbor.Infrastructure.csproj|solutionrelative:redarbor.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F75A658-AE54-413B-A62F-0D0E412B3D9B}|RedArbor.Domain\\RedArbor.Domain.csproj|d:\\users\\hnpinto\\desktop\\pruebnatalia\\redarbor.api\\redarbor.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F75A658-AE54-413B-A62F-0D0E412B3D9B}|RedArbor.Domain\\RedArbor.Domain.csproj|solutionrelative:redarbor.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +38,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "RedArbor.Domain\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "RedArbor.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:56:39.924Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -50,15 +88,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "RedArbor.Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "RedArbor.Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RedArbor.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RedArbor.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:32:48.278Z",
+              "WhenOpened": "2026-01-15T16:44:31.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeReadRepository.cs",
+              "DocumentMoniker": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Infrastructure\\Repositories\\EmployeeReadRepository.cs",
+              "RelativeDocumentMoniker": "RedArbor.Infrastructure\\Repositories\\EmployeeReadRepository.cs",
+              "ToolTip": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Infrastructure\\Repositories\\EmployeeReadRepository.cs",
+              "RelativeToolTip": "RedArbor.Infrastructure\\Repositories\\EmployeeReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:43:29.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "RedArbor.Api\\appsettings.json",
+              "ToolTip": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Api\\appsettings.json",
+              "RelativeToolTip": "RedArbor.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T16:22:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RedArbor.Api\\Program.cs",
+              "ToolTip": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Api\\Program.cs",
+              "RelativeToolTip": "RedArbor.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:21:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeReadRepository.cs",
+              "DocumentMoniker": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Application\\Interfaces\\IEmployeeReadRepository.cs",
+              "RelativeDocumentMoniker": "RedArbor.Application\\Interfaces\\IEmployeeReadRepository.cs",
+              "ToolTip": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Application\\Interfaces\\IEmployeeReadRepository.cs",
+              "RelativeToolTip": "RedArbor.Application\\Interfaces\\IEmployeeReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:19:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeWriteRepository.cs",
+              "DocumentMoniker": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Infrastructure\\Repositories\\EmployeeWriteRepository.cs",
+              "RelativeDocumentMoniker": "RedArbor.Infrastructure\\Repositories\\EmployeeWriteRepository.cs",
+              "ToolTip": "D:\\Users\\HNPinto\\Desktop\\PruebNatalia\\RedArbor.Api\\RedArbor.Infrastructure\\Repositories\\EmployeeWriteRepository.cs",
+              "RelativeToolTip": "RedArbor.Infrastructure\\Repositories\\EmployeeWriteRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:19:23.536Z",
               "EditorCaption": ""
             }
           ]

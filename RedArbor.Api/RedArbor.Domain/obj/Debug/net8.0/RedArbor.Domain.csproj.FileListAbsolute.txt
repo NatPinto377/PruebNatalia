@@ -9,3 +9,4 @@ D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\refint\RedArbor.Domain.dll
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\RedArbor.Domain.pdb
 D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\ref\RedArbor.Domain.dll
+D:\Users\HNPinto\Desktop\PruebNatalia\RedArbor.Api\RedArbor.Domain\obj\Debug\net8.0\RedArbor.Domain.sourcelink.json

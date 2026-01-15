@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RedArbor.Application\RedArbor.Application.csproj" />
+    <ProjectReference Include="..\RedArbor.Infrastructure\RedArbor.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
